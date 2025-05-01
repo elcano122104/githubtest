@@ -4,8 +4,6 @@
  */
 package word_counting;
 
-
-
 /**
  *
  * @author TTeemo
